@@ -1,0 +1,6 @@
+[submodule "LPEP-frontend"]
+	path = LPEP-frontend
+	url = git@github.com:ZhangShutao/LPEP-frontend.git
+[submodule "LPEP-backend"]
+	path = LPEP-backend
+	url = git@github.com:ZhangShutao/LPEP-backend.git
